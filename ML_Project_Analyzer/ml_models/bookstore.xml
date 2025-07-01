@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+  <book category="Fiction">
+    <title lang="en">The Great Gatsby</title>
+    <author>F. Scott Fitzgerald</author>
+    <year>1925</year>
+    <price>10.99</price>
+  </book>
+
+  <book category="Science">
+    <title lang="en">A Brief History of Time</title>
+    <author>Stephen Hawking</author>
+    <year>1988</year>
+    <price>15.50</price>
+  </book>
+
+  <book category="Fantasy">
+    <title lang="en">Harry Potter and the Philosopher's Stone</title>
+    <author>J.K. Rowling</author>
+    <year>1997</year>
+    <price>12.00</price>
+  </book>
+
+  <book category="Self-Help">
+    <title lang="en">Atomic Habits</title>
+    <author>James Clear</author>
+    <year>2018</year>
+    <price>13.45</price>
+  </book>
+</bookstore>
