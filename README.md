@@ -89,7 +89,8 @@ The platform generates comprehensive reports with data visualizations, enabling 
 | Grid/Random Search | Hyperparameter tuning                        |
 
 ---
-
+## Demo Video 
+https://github.com/user-attachments/assets/e00f4a5d-98b4-453a-85ed-69fa0d57a176
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
