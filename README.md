@@ -42,7 +42,7 @@ The platform generates comprehensive reports with data visualizations, enabling 
 ---
 
 ## 🧩 System Architecture
-
+![image alt](https://github.com/V1shnuviswa/ML-Model-Analyser-LLM-Powered/blob/6a45922a82faefb87d36c251d00fd17fd1505c57/ML%20Model%20Analyzer.png)
 | Component              | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
 | 📚 Model Analysis      | Structured approach to assess efficiency, accuracy, and computational costs |
