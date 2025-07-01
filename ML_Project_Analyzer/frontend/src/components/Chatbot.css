@@ -1,0 +1,35 @@
+.chatbot-container {
+    border: 2px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    max-width: 400px;
+  }
+  
+  .chatbot-container h3 {
+    margin-bottom: 10px;
+  }
+  
+  .chatbot-container input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .chatbot-container button {
+    background-color: #007bff;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .chat-response {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #e8e8e8;
+    border-radius: 5px;
+  }
+  
